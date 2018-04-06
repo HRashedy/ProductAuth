@@ -1,0 +1,11 @@
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\bin\Debug\netcoreapp2.0\MVCWebApp7.deps.json
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\bin\Debug\netcoreapp2.0\MVCWebApp7.runtimeconfig.json
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\bin\Debug\netcoreapp2.0\MVCWebApp7.runtimeconfig.dev.json
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\bin\Debug\netcoreapp2.0\MVCWebApp7.dll
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\obj\Debug\netcoreapp2.0\MVCWebApp7.csprojResolveAssemblyReference.cache
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\obj\Debug\netcoreapp2.0\MVCWebApp7.csproj.CoreCompileInputs.cache
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\obj\Debug\netcoreapp2.0\MVCWebApp7.AssemblyInfoInputs.cache
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\obj\Debug\netcoreapp2.0\MVCWebApp7.AssemblyInfo.cs
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\bin\Debug\netcoreapp2.0\MVCWebApp7.pdb
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\obj\Debug\netcoreapp2.0\MVCWebApp7.dll
+c:\users\hrashedy\source\repos\MVCWebApp7\MVCWebApp7\obj\Debug\netcoreapp2.0\MVCWebApp7.pdb
